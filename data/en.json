@@ -1,0 +1,39 @@
+{
+  "menu":{
+    "about": "ABOUT US",
+    "work": "WORKS",
+    "gallery": "GALLERY",
+    "part": "PARTNERSHIP",
+    "contact": "CONTACT US"
+  },
+  "about":{
+    "story": "Based in Taiwan, Skvader Entertainment is<br/>an independent creator of games and stories.<br/>With storytelling at our heart, <br/>we craft original narrative universes that<br/>span games, mangas, novels, <br/>and a wide range of interactive media.<br/><br/>Sparked by ink and light, this is where adventures begin—<br/>welcome to our world."
+  },
+  "work":{
+    "work101": "Myth of Mist",
+    "work102": "A story-driven, card-based RPG with a strategic core.<br/>Players become heroes or monsters in the mist-shrouded continent of Aenor. <br/>Construct decks and develop skills to battle the dark forces of the King of Mist.",
+    "work103": "Reclaim your Truth within the fated mists.",
+    "work201": "Seeker",
+    "work202": "A wholesome adventure across the stars.<br/>Join Hime the kitten and Detective Seeker on a galactic journey—uncovering lost memories and new emotions through exploration and puzzle-solving.",
+    "work203": "In the heart of the Milky Way, a long-lost bond awaits",
+    "work301": "Touch Eggplant",
+    "work302": "A unique 'eggplant squishing' game that balances quirky fun and soothing comfort.<br/>Touch the eggplant with affection and experience an interaction that's both bizarre and emotional.",
+    "work303": "Are you touching the eggplant—or your own heart?",
+    "work401": "Myth of Mist: Legacy",
+    "work402": "An epic RPG that blends tactical gameplay with branching role-playing narratives.<br/>Amidst the catastrophic mist, players navigate shifting alliances to forge a legend of their own.",
+    "work403": "In the rift between mist and fire, choose your allegiance and shape your fate",
+    "work501": "Seekers Alliance",
+    "work502": "A multiplayer TCG powered by blockchain technology, featuring three distinct Factions, each with its own unique playstyle.<br/>Players collect cards and battle to seize the crown as the world's Sovereign.",
+    "work503": "Assemble your Faction and seize the crown in the game of cards and power.",
+    "work601": "Seekers Alliance: Hero's Journey",
+    "work602": "A fast-paced roguelite card-battling RPG set in the world of Seekers Alliance.<br/>Assemble your Heroes and venture deep into The Sovereign's Island, progressively strengthening your deck to challenge powerful foes and Fate itself.",
+    "work603": "A brand-new adventure begins with you"
+  },
+  "contact":{
+    "main": "Whether you're a creator, publisher, developer, or brand, <br/>we're here to illuminate the path and explore new adventures with you."
+  }
+}
+
+  
+
+	
